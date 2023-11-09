@@ -4,8 +4,14 @@ layout: home
 nav_order: 0
 ---
 
-Stable
+TC
+{: .label .label-grey-lt-300}
+
+RM
 {: .label .label-green }
+
+Tecniche avanzate
+{: .label .label-purple }
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
