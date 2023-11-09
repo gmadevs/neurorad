@@ -1,8 +1,8 @@
-title: YOUR TITLE
-description: YOUR DESCRIPTION
+title: NeuroRad
+description: Appunti di neuroradiologia in italiano
 theme: just-the-docs
 
 url: https://gmadevs.github.io/neurorad
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+  Template Repository: https://github.com/gmadevs/neurorad
