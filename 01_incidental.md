@@ -1,7 +1,7 @@
 ---
-title: Tumori
+title: Incidental/varianti anatomiche
 layout: default
-nav_order: 10
+nav_order: 2
 has_children: true
 ---
 
