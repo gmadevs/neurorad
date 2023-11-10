@@ -4,6 +4,10 @@ theme: just-the-docs
 
 url: https://gmadevs.github.io/neurorad
 
+logo: "/graphics/logo.png"
+favicon_ico: "graphics/favicon.ico"
+
+
 aux_links: # remove if you don't want this link to appear on your pages
   Codice sorgente: https://github.com/gmadevs/neurorad
 
@@ -17,9 +21,11 @@ callouts:
   attenzione: 
     title: Attenzione 
     color: red
+
   tip:
     title: Tip 
     color: green
+    
   nota:
     title: Nota 
     color: blue

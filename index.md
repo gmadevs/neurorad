@@ -7,12 +7,17 @@ nav_order: 0
 {: .attenzione }
 Box attenzione
 
+---
+
 {: .tip }
 Box suggerimenti
+
+---
 
 {: .nota }
 Box nota
 
+---
 
 ## Epidemiologia
 
