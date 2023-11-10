@@ -16,14 +16,10 @@ color_scheme: dark
 callouts: 
   attenzione: 
     title: Attenzione 
-    color: red 
-
-callouts: 
-  tip: 
+    color: red
+  tip:
     title: Tip 
-    color: green 
-
-callouts: 
-  nota: 
+    color: green
+  nota:
     title: Nota 
     color: blue

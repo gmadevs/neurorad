@@ -14,18 +14,18 @@ Box suggerimenti
 Box nota
 
 
-##Epidemiologia
+## Epidemiologia
 
-##Presentazione clinica
+## Presentazione clinica
 
-##Patologia
+## Patologia
 
-##Imaging
+## Imaging
 
-TC 
+### TC 
 {: .label .label-blue } 
 
-RM 
+### RM 
 {: .label .label-green } 
 
 <dl> 
@@ -39,12 +39,12 @@ RM
   <dd>-</dd> 
 </dl> 
 
-Avanzate 
+### Avanzate 
 {: .label .label-purple } 
 
-Angiografia 
+### Angiografia 
 {: .label .label-red }
 
-##Terapia e follow-up
+## Terapia e follow-up
 
-##Diagnosi differenziali
+## Diagnosi differenziali
