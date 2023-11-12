@@ -2,7 +2,7 @@
 
 ---
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![](https://img.shields.io/badge/powered%20by-jekyll-red.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/gmadevs/neurorad/graphs/commit-activity) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/gmadevs/neurorad)(https://github.com/gmadevs/neurorad/graphs/commit-activity) ![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/gmadevs/neurorad/0.0.1/main) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/gmadevs/neurorad/latest/total)
+ [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![](https://img.shields.io/badge/powered%20by-jekyll-red.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/gmadevs/neurorad/graphs/commit-activity) [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/gmadevs/neurorad)](https://github.com/gmadevs/neurorad/graphs/commit-activity) ![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/gmadevs/neurorad/0.0.1/main) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/gmadevs/neurorad/latest/total)
 
 
 
